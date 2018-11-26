@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MenuManager.cs" Line="29" Column="35" />
+      <File FileName="Assets\Scripts\Player.cs" Line="231" Column="29" />
+      <File FileName="..\..\..\Desktop\UnityProjetos\VeganDino\TrabalhoIzequiel\Assets\Scriptes\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Gaviao.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Onca.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Cobra.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
